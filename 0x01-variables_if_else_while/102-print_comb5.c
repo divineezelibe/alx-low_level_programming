@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/* main - Print all possible combinations of two-digit numbers,
+/**
+ * main - Print all possible combinations of two-digit numbers,
  * ranging from 0-99, separated by comma follwed by a space
 */
 int main(void)
