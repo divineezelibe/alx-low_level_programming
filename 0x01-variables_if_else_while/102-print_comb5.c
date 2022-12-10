@@ -3,6 +3,7 @@
 /**
  * main - Print all possible combinations of two-digit numbers,
  * ranging from 0-99, separated by comma follwed by a space
+ * Return: Always 0.
 */
 int main(void)
 {
