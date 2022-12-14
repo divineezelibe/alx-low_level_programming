@@ -2,7 +2,7 @@
 
 /**
  * _islower - Entry point
- *
+ * @c: Int c parameter
  * Return: Always 0
  */
 
