@@ -4,7 +4,7 @@
  * main - Print Alphabets
  *
  * Return: Always 0
- */
+*/
 
 void print_alphabet(void)
 {
