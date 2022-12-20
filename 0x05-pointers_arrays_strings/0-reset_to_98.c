@@ -2,7 +2,7 @@
 
 /**
  * reset_to_98 - update the value of pointer points to 98
- * @*n: The character to be checked
+ * @n: The character to be checked
  *
  * Return: void
  */
