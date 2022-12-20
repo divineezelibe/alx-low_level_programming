@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 /**
  * Author: Divine Ezelibe
  * Description: All function prototypes are here
