@@ -20,7 +20,6 @@ int _strlen(char *s)
 	return (len);
 }
 
-
 /**
  * rev_string - reverse string
  * @s: The char
