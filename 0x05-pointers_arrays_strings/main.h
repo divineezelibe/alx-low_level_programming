@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /**
  * Author: Divine Ezelibe
  * Description: All function prototypes are here
@@ -12,3 +14,4 @@ void rev_string(char *s);
 void puts2(char *str);
 void puts_half(char *str);
 void print_array(int *a, int n);
+char *_strcpy(char *dest, char *src);
