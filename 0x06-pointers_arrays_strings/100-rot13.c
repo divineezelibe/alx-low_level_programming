@@ -4,7 +4,7 @@
  * *rot13 - Perform Rot
  * @s: char s
  *
- * return: char result
+ * Return: char result
  */
 
 char *rot13(char *s)
@@ -24,7 +24,6 @@ char *rot13(char *s)
 			s[a] += 13;
 			break;
 		}
-
 
 		a++;
 	}
