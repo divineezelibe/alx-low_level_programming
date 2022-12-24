@@ -1,8 +1,7 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * _strcat - Concatenates two strings
+ * *_strcat - Concatenates two strings
  * @desc: char desc
  * @src: char src
  *
@@ -11,8 +10,7 @@
 
 char *_strcat(char *dest, char *src)
 {
-	int dlen = 0; 
-	int i;
+	int dlen = 0, i;
 
 	while (dest[dlen])
 	{
