@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 int my_pal(char *s, int l);
 int get_length(char *s);
