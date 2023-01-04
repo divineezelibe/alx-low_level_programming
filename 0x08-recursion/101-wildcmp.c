@@ -1,7 +1,5 @@
 #include "main.h"
 
-int findsrc(char *s, char c, int i, int p);
-
 /**
  * wildcmp - compare two strings with "wildcard expansion" capabilities
  * @s1: string 1
@@ -9,13 +7,6 @@ int findsrc(char *s, char c, int i, int p);
  * Return: 1 if strings can be considered identical, else 0
  */
 
- /**
-  *  * wildcmp - Compare two strings allowing for wildcard char
-  *   * @s1: String being compared
-  *    * @s2: String being compared against
-  *     *
-  *      * Return: 1 if considered identical, 0 otherwise
-  *       */
 int wildcmp(char *s1, char *s2)
 {
 	if (*s1 == '\0' && *s2 == '\0')
