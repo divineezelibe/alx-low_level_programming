@@ -4,7 +4,7 @@
 /**
  * main - Entry Point
  * @argc: arguments
- * @argv[]: array pointing to arguments
+ * @argv: array pointing to arguments
  *
  * Return: 0
  */
