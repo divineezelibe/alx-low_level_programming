@@ -3,7 +3,6 @@
 
 /**
  * find_listint_loop_fl - finds a loop in a linked list
- *
  * @head: linked list to search
  *
  * Return: address of node where loop starts/returns, NULL if no loop
@@ -64,6 +63,6 @@ size_t free_listint_safe(listint_t **h)
 		free(*h);
 	}
 	*h = NULL;
-	
+
 	return (len);
 }
