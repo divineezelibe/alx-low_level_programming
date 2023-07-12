@@ -9,7 +9,7 @@
  *
  * @n: Integer
  * @index: Index of the node in the list
- * @next: Pointer to the next node
+ * @next: Pointer to the next node as requested
  *
  * Description: singly linked list node structure
  * for ALX project
